@@ -83,7 +83,6 @@
     width: 144px;
     min-width: 112px;
     margin-top: 0;
-    margin-bottom: 17px;
   }
 } .u-section-3 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/DSC08678.jpg");
@@ -113,12 +112,16 @@
     background-position: 50% 0%;
   }
 
+  .u-section-3 .u-sheet-1 {
+    min-height: 375px;
+  }
+
   .u-section-3 .u-btn-1 {
-    margin-top: 94px;
+    margin-top: 101px;
     margin-bottom: 0;
   }
 
   .u-section-3 .u-btn-2 {
-    margin-top: 95px;
+    margin-top: 101px;
   }
 }
