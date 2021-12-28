@@ -109,6 +109,10 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 675px;
+  }
+
   .u-section-2 .u-btn-1 {
     margin-top: 98px;
   }
@@ -124,5 +128,6 @@
   .u-section-2 .u-btn-4 {
     margin-top: -326px;
     margin-right: 0;
+    margin-bottom: 0;
   }
 }
