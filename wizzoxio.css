@@ -142,32 +142,33 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 479px;
+    min-height: 650px;
   }
 
   .u-section-2 .u-btn-1 {
-    margin-top: 28px;
+    margin-top: 50px;
   }
 
   .u-section-2 .u-btn-2 {
-    margin-top: 22px;
+    margin-top: 50px;
+    margin-right: 0;
   }
 
   .u-section-2 .u-btn-3 {
-    margin-top: 22px;
+    margin-top: 50px;
   }
 
   .u-section-2 .u-btn-4 {
-    margin-top: 22px;
+    margin-top: 50px;
   }
 
   .u-section-2 .u-btn-5 {
-    margin-top: 22px;
+    margin-top: 50px;
     margin-left: 0;
   }
 
   .u-section-2 .u-btn-6 {
-    margin-top: 22px;
-    margin-bottom: 22px;
+    margin-top: 50px;
+    margin-bottom: 31px;
   }
 }
