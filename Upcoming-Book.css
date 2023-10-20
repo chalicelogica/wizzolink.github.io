@@ -62,36 +62,36 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1060px;
+    min-height: 775px;
   }
 
   .u-section-1 .u-shape-1 {
-    margin-top: 81px;
+    margin-top: 40px;
   }
 
   .u-section-1 .u-text-1 {
     width: auto;
-    margin-top: 36px;
+    margin-top: 26px;
     margin-left: 0;
     margin-right: 0;
   }
 
   .u-section-1 .u-text-2 {
     width: auto;
-    margin-top: 36px;
+    margin-top: 14px;
     margin-left: 0;
     margin-right: 0;
   }
 
   .u-section-1 .u-form-1 {
-    margin-top: 36px;
+    margin-top: -17px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
   }
 
   .u-section-1 .u-shape-2 {
-    margin-top: 16px;
-    margin-bottom: 49px;
+    margin-top: 23px;
+    margin-bottom: 23px;
   }
 }
