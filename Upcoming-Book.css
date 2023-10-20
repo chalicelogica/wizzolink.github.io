@@ -57,26 +57,37 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1060px;
+  }
+
   .u-section-1 .u-shape-1 {
-    margin-top: 550px;
+    margin-top: 81px;
   }
 
   .u-section-1 .u-text-1 {
-    width: 340px;
-    margin-top: 527px;
+    width: auto;
+    margin-top: 36px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-text-2 {
-    width: 340px;
-    margin-top: -420px;
+    width: auto;
+    margin-top: 36px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-form-1 {
-    width: 340px;
-    margin-top: -12px;
+    margin-top: 36px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-1 .u-shape-2 {
-    margin-bottom: 0;
+    margin-top: 16px;
+    margin-bottom: 49px;
   }
 }

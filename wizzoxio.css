@@ -122,10 +122,15 @@
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: -170px;
+    margin-top: 26px;
+    margin-left: 0;
+    margin-right: 0;
+    padding-right: 65px;
+    padding-left: 64px;
   }
 
   .u-section-1 .u-btn-2 {
+    margin-top: 31px;
     margin-left: 0;
     margin-right: 0;
     padding-right: 29px;
@@ -142,8 +147,8 @@
   .u-section-1 .u-btn-4 {
     margin-left: 0;
     margin-right: 0;
-    padding-right: 23px;
     padding-left: 23px;
+    padding-right: 23px;
   }
 
   .u-section-1 .u-btn-5 {
